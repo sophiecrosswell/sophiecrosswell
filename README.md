@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sophiecrosswell
-- 👀 I love Testing and programming (especially SQL)
-- 🌱 I’m currently learning how to become a Test Analyst
-- 📫 How to reach me: LinkedIn - Sophie Crosswell or Twitter - @CrosswellSophie
+👋 Hi, I’m @sophiecrosswell
+👀 I love Testing and programming (especially SQL)
+🌱 I’m currently learning how to become a Test Analyst
+📫 How to reach me: LinkedIn - Sophie Crosswell or Twitter - @CrosswellSophie
 
 <!---
 sophiecrosswell/sophiecrosswell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
