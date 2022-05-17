@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sophiecrosswell
-- 👀 I love Testing and programming (especially SQL)
+- 👋 Hi, I’m @SophieCrosswell
+- 👀 I am passionate about Testing and programming (especially SQL)
 - 🌱 I’m currently learning how to become a Test Analyst
 - 📫 How to reach me: LinkedIn - Sophie Crosswell or Twitter - @CrosswellSophie
 
